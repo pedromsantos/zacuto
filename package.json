@@ -82,7 +82,7 @@
     "tsx": "^4.16.2",
     "turbo": "^2.0.9",
     "type-coverage": "^2.29.1",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   },
   "husky": {
     "hooks": {
